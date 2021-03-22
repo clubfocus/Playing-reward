@@ -27,8 +27,8 @@
 
 打赏一下的话就更好了~
 
-![AliPayQR](https://user-images.githubusercontent.com/80865099/111929622-dcbc2000-8af1-11eb-9f21-a1da31508e98.png)
+![alipay](https://user-images.githubusercontent.com/80865099/111929945-bb0f6880-8af2-11eb-8e2c-acd7d3e29397.png)
 
+![wechat](https://user-images.githubusercontent.com/80865099/111929956-c2367680-8af2-11eb-9ebe-77cfaf1a5464.png)
 
-![WeChatQR](https://user-images.githubusercontent.com/80865099/111929637-e9407880-8af1-11eb-8784-8b06c9fb2ed2.png)
 
