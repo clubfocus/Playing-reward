@@ -20,14 +20,15 @@
 ### 使用 iframe 嵌入页面的代码，高度至少 240px，宽度至少 310px！
 
 ```html
-<iframe src="https://ihoey.github.io/Playing-reward/" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe>
+<iframe src="https://clubhouse.github.io/Playing-reward/" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe>
 ```
 
 如果觉得还可以的话，点个赞呗~
 
 打赏一下的话就更好了~
 
-![微信支付](images/WeChanQR.png)
+![AliPayQR](https://user-images.githubusercontent.com/80865099/111929622-dcbc2000-8af1-11eb-9f21-a1da31508e98.png)
 
 
-![支付宝支付](images/AliPayQR.png)
+![WeChatQR](https://user-images.githubusercontent.com/80865099/111929637-e9407880-8af1-11eb-8784-8b06c9fb2ed2.png)
+
